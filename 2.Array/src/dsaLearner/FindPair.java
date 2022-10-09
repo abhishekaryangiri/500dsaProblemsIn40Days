@@ -30,7 +30,7 @@ public class FindPair {
 		findPair( nums, target);
 	}
 }
-//intitution: code from 11 - 32
+//intuition: code from 11 - 32
 //line 13: find a pair in a array with a given sum
 // line 14 : consider each element except the last
 // liine 16: start from ith elem till last elem

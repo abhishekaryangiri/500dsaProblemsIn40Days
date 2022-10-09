@@ -41,3 +41,11 @@ public static void main(String[] args) {
 	findPairBySorting(nums, target);
 }
 }
+//intuition: code from 11 to 43
+//line 16: function  to find a pair with a given sum using sorting
+//19, 20: maintain two indices pointing to endpoint of the array
+//21:  loop till the search spaces is exhausted
+//23:  sum found
+//30 & 33: increment:low index of total in less than the desired sum  dec.: high index of the total is ,ore than the desired sum
+
+
