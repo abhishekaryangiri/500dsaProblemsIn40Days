@@ -7,12 +7,12 @@
 	// input: [5, 2, 6, 8, 1, 9]
 	//--> target 12
 	//output: pair not found
-package dsaLearner;
+package loveDSA;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class FindPairUsingHashing {
+public class $1FindPair_Hashing {
 public static void findPairUsingHashing(int[] nums, int target) 
 {
 	Map<Integer, Integer>map = new HashMap<>( );

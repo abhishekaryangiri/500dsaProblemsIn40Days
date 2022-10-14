@@ -8,8 +8,8 @@
 	//--> target 12
 	//output: pair not found
 
-package dsaLearner;
-public class FindPair {
+package loveDSA;
+public class $1FindPair_BF {
 	public static void findPair(int[] nums, int target) {
 		for(int i=0; i<nums.length-1; i++) 
 		{

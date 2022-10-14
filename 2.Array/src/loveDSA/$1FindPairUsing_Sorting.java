@@ -8,11 +8,11 @@
 	//--> target 12
 	//output: pair not found
 
-package dsaLearner;
+package loveDSA;
 
 import java.util.Arrays;
 
-public class findPairUsingSorting {
+public class $1FindPairUsing_Sorting {
 	public static void findPairBySorting( int[] nums, int target)
 	{
 		Arrays.sort(nums);
