@@ -12,7 +12,7 @@
 //Output: 2
 package loveDSA;
 import java.lang.*;
-public class $30MinSwap {
+public class $31MinSwap {
 	// Utility function to find minimum swaps
 	// required to club all elements less than
 	// or equals to k together
