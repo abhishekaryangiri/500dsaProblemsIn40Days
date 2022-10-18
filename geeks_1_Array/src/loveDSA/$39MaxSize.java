@@ -5,7 +5,7 @@ package loveDSA;
 
 //Java program to find largest rectangle with all 1s
 //in a binary matrix
-
+import java.io.*;
 import java.util.*;
 public class $39MaxSize {
 	 // Finds the maximum area under the histogram
