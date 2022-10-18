@@ -10,19 +10,21 @@
 package loveDSA;
 
 public class $2CheckPelindrom {
-	public static void main(String args[]){  
-		  int r,sum=0,temp;    
-		  int n=454;//It is the number variable to be checked for palindrome  
-		  
-		  temp=n;    
-		  while(n>0){    
-		   r=n%10;  //getting remainder  
-		   sum=(sum*10)+r;    
-		   n=n/10;    
-		  }    
-		  if(temp==sum)    
-		   System.out.println("palindrome number ");    
-		  else    
-		   System.out.println("not palindrome");    
-		}  
+	public static void main(String[] args) {
+
+	    String str = "Radar", reverseStr = "";
+	    
+	    int strLength = str.length();
+
+	    for (int i = (strLength - 1); i >=0; --i) {
+	      reverseStr = reverseStr + str.charAt(i);
+	    }
+
+	    if (str.toLowerCase().equals(reverseStr.toLowerCase())) {
+	      System.out.println(str + " is a Palindrome String.");
+	    }
+	    else {
+	      System.out.println(str + " is not a Palindrome String.");
+	    }
+	  }
 }
