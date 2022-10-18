@@ -1,7 +1,7 @@
 //Rotate matrix by 90 degrees
 //Given a square matrix, turn it by 90 degrees in a clockwise direction without using any extra space.
 package loveDSA;
-
+import java.io.*;
 public class $41rotateMatrixBy90Deg {
 	static int N = 4;
 	 
