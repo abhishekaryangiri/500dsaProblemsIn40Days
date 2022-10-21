@@ -8,7 +8,7 @@ public class $10AllPermutation {
 	    { 
 	        String str = "ABC"; 
 	        int n = str.length(); 
-	        Permutation permutation = new Permutation(); 
+	        $10AllPermutation permutation = new $10AllPermutation(); 
 	        permutation.permute(str, 0, n-1); 
 	    } 
 	  
