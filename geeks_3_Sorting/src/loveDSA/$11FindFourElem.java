@@ -4,7 +4,7 @@
 
 package loveDSA;
 
-public class $FindFourElem {
+public class $11FindFourElem {
 
     /* A naive solution to print all combination of 4 elements in A[]
        with sum equal to X */
@@ -34,7 +34,7 @@ public class $FindFourElem {
     // Driver program to test above functions
     public static void main(String[] args)
     {
-    	$FindFourElem findfour = new $FindFourElem();
+    	$11FindFourElem findfour = new $11FindFourElem();
         int A[] = {10, 20, 30, 40, 1, 2};
         int n = A.length;
         int X = 91;
