@@ -1,15 +1,15 @@
-//Function to check if a singly linked list is palindrome
-//Input: R->A->D->A->R->NULL
-//Output: Yes
-
-//Input: C->O->D->E->NULL
-//Output: No
+//Count triplets in a sorted doubly linked list whose sum is equal to a given value x
+//Method 1 (Naive Approach): 
+//Using three nested loops generate all triplets and check whether elements in the triplet sum up to x or not.
 
 package loveDSA;
+
 import java.io.*;
 import java.util.*;
-public class $16CheckLLpalindrom {
-
+  
+// Represents node of a doubly linked list
+class Node 
+{
     int data;
     Node prev, next;
     Node(int val)
