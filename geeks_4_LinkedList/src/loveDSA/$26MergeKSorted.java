@@ -13,7 +13,7 @@
 package loveDSA;
 
 import java.util.PriorityQueue;
-
+//replace class name with Node
 public class $26MergeKSorted {
 	int data;
     Node next;
