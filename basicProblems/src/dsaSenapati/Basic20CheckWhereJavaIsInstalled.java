@@ -1,5 +1,5 @@
 /*
- Write a Java program to check whether Java is installed on your computer. Go to the editor
+ Write a Java program to check whether Java is installed on your computer. 
 Expected Output
 
 Java Version: 1.8.0_71                                                            
