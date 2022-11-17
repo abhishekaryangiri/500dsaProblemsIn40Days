@@ -7,7 +7,9 @@ Expected Output
 ...                                            
                                                    
 431                                                      
-432                                                      
+432    
+total 24 hai
+so count na  -- code ki bhasa me                                                  
 Total number of the three-digit-number is 24
  */
 package dsaSenapati;
