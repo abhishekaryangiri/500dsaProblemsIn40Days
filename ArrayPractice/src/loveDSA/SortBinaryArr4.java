@@ -14,6 +14,8 @@ Output: { 0, 0, 0, 0, 1, 1, 1, 1 }
 
 package loveDSA;
 
+import java.util.Arrays;
+
 public class SortBinaryArr4 {
 	// Function to sort a binary array in linear time
     public static void sort(int[] A)
