@@ -3,7 +3,7 @@
 Sample Output:
 
 Input a Sentence: the quick brown fox jumps over the lazy dog.         
-The Quick Brown Fox Jumps Over The Lazy Dog.
+men will be men.
  */
 package dsaSenapati;
 
