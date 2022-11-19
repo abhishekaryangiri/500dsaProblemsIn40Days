@@ -2,7 +2,7 @@
   Write a Java program to compute the sum of the first 50 prime numbers. 
 Sample Output:
 
-Sum of the first 50 prime numbers: 24133 
+Sum of the first 50 prime numbers: 1060 
  */
 package dsaSenapati;
 
