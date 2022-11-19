@@ -3,7 +3,7 @@
 Sample Output:
 
 Input an integer: 35                                                  
-3
+4
  */
 package dsaSenapati;
 
